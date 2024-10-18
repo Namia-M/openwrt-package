@@ -1,1 +1,1 @@
-- [个人脚本专用配套插件包](https://github.com/281677160/build-actions)
+OpenWrt-X的专用插件包基于上游没更新的或者缺失的我进行补充，随心补充…！
